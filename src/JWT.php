@@ -7,8 +7,6 @@ use DateTime;
 use DomainException;
 use Exception;
 use InvalidArgumentException;
-use OpenSSLAsymmetricKey;
-use OpenSSLCertificate;
 use stdClass;
 use UnexpectedValueException;
 
